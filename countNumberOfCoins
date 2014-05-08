@@ -6,6 +6,8 @@ package javaapplication;
 
 /**
  *
+   Program to calculate number of ways to reach a value X by adding given set of numbers which are less than X.
+   
  * @author vishal
  */
 public class countNumberOfCoins 
